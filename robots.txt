@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tiguere561.github.io/dropzone/sitemap.xml
